@@ -1,0 +1,6 @@
+tmp/
+*old
+*backup
+.DS_Store/
+_MACOSX/
+Thumbs.db
